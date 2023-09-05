@@ -6,11 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+stateful组件学习第一篇：
+App图片：
+![G 8`Z2%D_A073VN JBIR@PO](https://github.com/Programmer322/dicee/assets/107043802/74d7e5d6-4a4c-42f9-9d5f-490e5556fb86)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+项目运行：
+flutter：
+在项目目录下执行命令：
+    step1:flutter pub get 
+    step2:flutter run
